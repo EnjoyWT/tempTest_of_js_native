@@ -1,0 +1,6 @@
+framework module Pods_webkit {
+  umbrella header "Pods-webkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
